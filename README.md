@@ -2,6 +2,7 @@
 - An API allows us to perform CRUD operations on patients info - name, contact no, address and PinCode.
 - Secured with JWT Authentcation.
 - Containerized with Docker.
+- Deployed locally with Kubernetes.
 
 ## JWT Authentication
 
