@@ -4,6 +4,20 @@
 - Containerized with Docker.
 - Deployed locally with Kubernetes.
 
+
+## Docker Image Build Success
+
+![patirnt - imageBuild](https://github.com/THEPHD1331/Patient-API/assets/126282296/1e9283d9-02bb-4998-8fe0-e77c3eb8fdbe)
+
+## Image Deployed to Kubernetes
+
+![patient - kuberunniinh](https://github.com/THEPHD1331/Patient-API/assets/126282296/fecf2cae-6bcf-4236-840e-1fd030d42da6)
+
+## Deployed App on localhost
+
+![patient - portFor](https://github.com/THEPHD1331/Patient-API/assets/126282296/b52240c0-4708-4fbb-b345-77f597b57ffa)
+
+
 ## JWT Authentication
 
 ![patient - token](https://github.com/THEPHD1331/Patient-API/assets/126282296/d38d8e4c-75df-47c4-8138-12047fd5317e)
@@ -23,3 +37,6 @@
 ## DELETE Request
 
 ![patient - deleteSuccess](https://github.com/THEPHD1331/Patient-API/assets/126282296/0ea98d91-afa0-41bd-b9e3-894fd483faee)
+
+
+
