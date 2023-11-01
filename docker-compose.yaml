@@ -1,0 +1,25 @@
+services:
+  app:
+    image: maven:3.8.3-openjdk-17
+    command: ["sh", "-c", "mvn spring-boot:run -Pdocker"]
+    ports:
+      - 8283:8283
+    working_dir: /src
+    volumes:
+      - ./:/src
+    environment:
+      MYSQL_HOST: sql12.freesqldatabase.com
+      MYSQL_USER: sql12655233
+      MYSQL_PASSWORD: NlICXIsXJu
+      MYSQL_DB: sql12655233
+
+#mysql:
+#    image: mysql:8.0
+#    volumes:
+#      - todo-db:/var/lib/mysql
+#    environment:
+#        MYSQL_ROOT_PASSWORD: 9hEKa4N1wk
+#        MYSQL_DATABASE: sql12652462
+
+volumes:
+  todo-db:
