@@ -39,4 +39,7 @@
 ![patient - deleteSuccess](https://github.com/THEPHD1331/Patient-API/assets/126282296/0ea98d91-afa0-41bd-b9e3-894fd483faee)
 
 
+## For Detailed Info 
+### [*Check logs*](https://github.com/THEPHD1331/Patient-API/blob/main/the-patient-deployment-logs.txt)
+
 
