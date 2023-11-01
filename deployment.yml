@@ -16,6 +16,7 @@ spec:
     spec:
       containers:
       - name: patient
-        image: parasdongre/patient-api 
+        image: parasdongre/patient-new:latest
+        imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8283

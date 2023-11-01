@@ -5,12 +5,12 @@ metadata:
 spec:
   type: NodePort
   selector:
-    app.kubernetes.io/name: patient-api-7f976f478b-56b4n
+    app: patient
   ports:
     - port: 8283
       # By default and for convenience, the `targetPort` is set to
       # the same value as the `port` field.
-      targetPort: 8284
+      targetPort: 8283
       # Optional field
       # By default and for convenience, the Kubernetes control plane
       # will allocate a port from a range (default: 30000-32767)
