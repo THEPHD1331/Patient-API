@@ -13,10 +13,13 @@
 
 ![patient - kuberunniinh](https://github.com/THEPHD1331/Patient-API/assets/126282296/fecf2cae-6bcf-4236-840e-1fd030d42da6)
 
-## Deployed App on localhost
+## Deployed App on localhost 8283
 
 ![patient - portFor](https://github.com/THEPHD1331/Patient-API/assets/126282296/b52240c0-4708-4fbb-b345-77f597b57ffa)
 
+## Minikube Dashboard
+
+![kubeDashboard](https://github.com/THEPHD1331/Patient-API/assets/126282296/8b03dfe1-43ea-4f3c-bae2-7ed3bf897747)
 
 ## JWT Authentication
 
